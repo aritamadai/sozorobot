@@ -1,0 +1,19 @@
+{
+    "name": "sozorobot",
+    "version": "1.0.1",
+    "description": "CCE hama:bit robot car",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "sozorobot.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:3d60e022-7d7b-448f-9158-13956bcd301c"
+}
