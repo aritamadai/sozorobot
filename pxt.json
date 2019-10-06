@@ -3,7 +3,7 @@
     "version": "1.0.2",
     "description": "My translated sozorobot extention for CCE hama:bit robot car",
     "dependencies": {
-        "core": "file:../core",
+        "core": "*",
         "radio": "*"
     },
     "files": [
