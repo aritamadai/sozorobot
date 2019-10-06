@@ -2,9 +2,11 @@
     "name": "sozorobot",
     "version": "1.0.2",
     "description": "My translated sozorobot extention for CCE hama:bit robot car",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "sozorobot": "github:aritamadai/sozorobot"
     },
     "files": [
         "README.md",
@@ -25,7 +27,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
+    "public": true,
     "preferredEditor": "tsprj",
     "installedVersion": "workspace:3d60e022-7d7b-448f-9158-13956bcd301c"
 }
