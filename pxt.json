@@ -1,6 +1,6 @@
 {
     "name": "sozorobot",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "My translated sozorobot extention for CCE hama:bit robot car",
     "license": "MIT",
     "dependencies": {
