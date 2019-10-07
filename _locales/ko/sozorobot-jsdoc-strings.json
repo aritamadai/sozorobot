@@ -1,7 +1,7 @@
 {
   "CarDirection": "extended blocks for sozoRobot",
   "sozoRobot.backward": "백합니다（정지하려면 정지 블록이 필요합니다）",
-  "sozoRobot.continuousRun": "指定された方向に連続走行します（정지하려면 정지 블록이 필요합니다）",
+  "sozoRobot.continuousRun": "지정된 방향으로 연속 주행합니다（정지하려면 정지 블록이 필요합니다）",
   "sozoRobot.customBackwards": "Backwards through the requested time and power then stops",
   "sozoRobot.customBackwards|param|duration": "in milliseconds to run the car, eg:500",
   "sozoRobot.customBackwards|param|powerAdjustment": "the factor of servo power adj　from 0 (min) to 200 (max), eg:80",
